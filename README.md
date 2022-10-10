@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniele-M
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Cryptography
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: da.massanti@gmail.com
 
